@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\Debug\PostLab1_pepito.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PostLab1_pepito.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PostLab1_pepito.map</FILE>
+  <FILE>PostLab1_pepito.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>29</LINE></SETUP>
+  <LOOP><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>67</LINE></LOOP>
+  <DELAY><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>90</LINE></DELAY>
+  <AUTM1><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>99</LINE></AUTM1>
+  <DECM1><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>114</LINE></DECM1>
+  <AUTM2><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>130</LINE></AUTM2>
+  <DECM2><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>145</LINE></DECM2>
+  <SUMA><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>161</LINE></SUMA>
+  <LOOP_DELAY><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>92</LINE></LOOP_DELAY>
+  <REINICIO1><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>108</LINE></REINICIO1>
+  <REINICIO2><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>123</LINE></REINICIO2>
+  <REINICIO3><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>139</LINE></REINICIO3>
+  <REINICIO4><FILE>c:\users\usuario\Documents\Atmel Studio\7.0\PostLab1_pepito\PostLab1_pepito\main.asm</FILE><LINE>154</LINE></REINICIO4>
+ </LABELS>
+</ASSEMBLER_INFO>
